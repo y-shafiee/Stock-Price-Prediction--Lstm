@@ -1,4 +1,4 @@
-# M Meta Stock Price Prediction with LSTM
+# Meta Stock Price Prediction with LSTM
 
 > Time-series forecasting of **Meta (META)** daily stock prices using an LSTM network in TensorFlow/Keras.  
 
